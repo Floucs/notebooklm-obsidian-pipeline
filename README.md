@@ -149,7 +149,7 @@ If it works, a `.md` file will appear in your vault's `00_INBOX/` folder.
 |--------|---------|
 | `00_INBOX` | Raw pipeline output — notes land here first with `status: raw` |
 | `10_LECTURES` | Reviewed and cleaned-up lecture notes |
-| `20_CONCEPTS` | Atomic concept notes, one idea per file (Zettelkasten style) |
+| `20_CONCEPTS` | Concept notes, one idea per file (Zettelkasten style) |
 | `30_EXAMS` | Exam preparation: summaries, flashcards, practice questions |
 | `40_RESOURCES` | Literature references, external links, PDFs |
 | `90_TEMPLATES` | Obsidian Templater templates |
