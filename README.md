@@ -364,4 +364,12 @@ MIT — free to use, modify, and share.
 
 ---
 
+## Disclaimer
+
+This tool automates interaction with [NotebookLM](https://notebooklm.google.com) via a browser session using the [`notebooklm-py`](https://github.com/navorite/notebooklm-py) library. Use it in accordance with [Google's Terms of Service](https://policies.google.com/terms). It is intended for personal academic use only — not for scraping, bulk automation, or commercial purposes.
+
+The repository contains no lecture materials, PDFs, or third-party content. All generated notes are stored locally in your own Obsidian vault.
+
+---
+
 *Built for Master's level academic workflows.*
